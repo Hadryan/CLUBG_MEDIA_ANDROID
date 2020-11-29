@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ClubG</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="titleEn">Welcome to ClubG</string>
+    <string name="titleBn">ক্লাবজি তে স্বাগতম</string>
+
+    <string name="welcomeMsg">ক্লাবজি\'র আয়োজনে আপনায়</string>
+    <string name="welcome">স্বাগতম</string>
+
+    <!-- Drawer Menu English List -->
+<!--    <string name="home">Home</string>
+    <string name="hits">Hits</string>
+    <string name="selected">Selected</string>
+    <string name="mylist">My List</string>
+    <string name="exclusive">Exclusive</string>
+    <string name="new_album">New Album</string>
+    <string name="catagory">Category</string>
+    <string name="offline">Offline</string>
+    <string name="subscription">Subscription</string>-->
+
+    <string name="home_bn">হোম</string>
+    <string name="picture_bn">ছবি</string>
+    <string name="song_bn">গান</string>
+    <string name="video_bn">ভিডিও</string>
+    <string name="news_bn">নিউজ</string>
+
+    <string name="one">১</string>
+    <string name="two">২</string>
+    <string name="three">৩</string>
+    <string name="four">৪</string>
+    <string name="five">৫</string>
+    <string name="six">৬</string>
+    <string name="seven">৭</string>
+    <string name="eight">৮</string>
+    <string name="nine">৯</string>
+    <string name="zero">০</string>
+
+    <string name="authorization_key">Basic YWRtaW46R3RlY2hDbHViRw==</string>
+    <integer name="data_size">20</integer>
+    <string name="image_url">http://test.clubgbd.com/</string>
+
+    <string name="exit_message_bn">আপনি কি বের হতে চান?</string>
+    <string name="yes">হ্যাঁ</string>
+    <string name="no">না</string>
+
+    <string name="app_permission">This app require SMS Receive and Read permission to obtain auto OTP enter. Please note this is important to get RadioG App fully functional.</string>
+
+</resources>
